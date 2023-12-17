@@ -1,7 +1,7 @@
 .about-container{
-    height: 90%; 
-    padding-top: 30px;
-    padding-bottom: 50px;
+    min-height: 90%; 
+    padding-top: 150px;
+    padding-bottom: 80px;
 }
 .about-heading{
     text-align: center;
@@ -45,5 +45,8 @@
     }
     .who{
         font-size: 38px;
+    }
+    .about-container{
+        padding-top: 20px;
     }
 }

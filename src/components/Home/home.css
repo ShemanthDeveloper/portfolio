@@ -1,5 +1,5 @@
 .home-container{
-    height: 90%;
+    min-height: 95%;
     margin-bottom: 10px;
 }
 .home-box-container{
@@ -28,7 +28,7 @@
     font-family: "Roboto";
 }
 .home-heading-2{
-    color: brown;
+    color: rgb(198, 141, 141);
     font-family: "Roboto";
     padding-bottom: 60px;
     font-weight: 500;

@@ -17,7 +17,7 @@ const Contact=()=>{
 
                 <div className="icon-box">
                 <SlSocialInstagram className="insta-icon"/>
-                <a href="https://instagram.com/she_calls_me_bava__?igshid=OGY3MTU3OGY1Mw==" rel="noopener noreferrer" target="_blank">
+                <a href="https://www.instagram.com/hemanth_sudhani?igsh=OGY3MTU3OGY1Mw==" rel="noopener noreferrer" target="_blank">
                 <button className="button-icon">Follow Me</button>
                 </a>
                 </div>

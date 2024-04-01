@@ -10,7 +10,7 @@ const Contact=()=>{
             <div className="contact-box">
                 <div className="icon-box">
                 <IoLogoWhatsapp className="whatsapp-icon"/>
-                <a href="https://api.whatsapp.com/send?phone=+919948156798" target="_blank" rel="noopener noreferrer">
+                <a href="https://api.whatsapp.com/send?phone=+919703322912" target="_blank" rel="noopener noreferrer">
                 <button className="button-icon">Message Me</button>
                </a>
                 </div>
